@@ -1,0 +1,33 @@
+body{
+  background-color:#323232;
+}
+
+h1{
+  text-align:center;
+  color:white;
+  margin-right: 300px;
+}
+
+#Container{
+  clear:both;
+  padding: 0;
+}
+
+#Coords{
+  float:right;
+  width:25vw;
+  height:87vh;
+  background-color:#323232;
+  color:white;
+}
+
+#ISSmap{
+  float:left;
+  width:70vw;
+  height: 87vh;
+  padding: 0;
+}
+
+p{
+  margin-left: 10px;
+}
